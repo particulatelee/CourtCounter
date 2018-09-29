@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="reset">reset</string>
+    <string name="stu.h">please put in your height（M）</string>
+    <string name="bmi_counter">BMI_counter</string>
+    <string name="stu.w">please put in your weight（kg）</string>
+    <string name="end">end</string>
+    <string name="btn_opencfg_label">Setting</string>
+    <string name="menu_set_label">setting</string>
+    <string name="bmi">bmi</string>
+    <string name="m">身高（米）</string>
+    <string name="kg">体重（kg）</string>
+    <string name="name">setting</string>
+    <string name="exchange">exchange</string>
+</resources>
